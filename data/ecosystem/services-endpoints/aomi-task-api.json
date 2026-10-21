@@ -1,0 +1,7 @@
+{
+  "name": "Aomi Task API (staging)",
+  "description": "Arc Mainnet staging x402 API: paid intent preparation and separate unsigned bundle retrieval",
+  "url": "https://api-staging.aomi.dev/v1/task/build",
+  "category": "services-endpoints",
+  "logo": "/logos/aomi.svg"
+}
