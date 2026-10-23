@@ -1,7 +1,7 @@
 {
-  "name": "Aomi Task API (staging)",
-  "description": "Arc Mainnet staging x402 API: paid intent preparation and separate unsigned bundle retrieval",
-  "url": "https://api-staging.aomi.dev/v1/task/build",
+  "name": "Aomi Task API — Arc Mainnet",
+  "description": "Arc Mainnet x402 Task simulation: 0.01 USDC preparation, free status polling, then separately quoted unsigned result retrieval at 3% of simulated gross outgoing USDC; no signing or broadcast",
+  "url": "https://api.aomi.dev/v1/task/build",
   "category": "services-endpoints",
   "logo": "/logos/aomi.svg"
 }
